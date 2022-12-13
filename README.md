@@ -15,7 +15,7 @@
 ![Udemy](https://img.shields.io/badge/Udemy-05122A?style=flat=Udemy&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-05122A?&style=flat&logo=spotify&logoColor=green)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp；
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
