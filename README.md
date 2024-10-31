@@ -1,5 +1,3 @@
-<img alt="Coding" width = 220px  src="https://camo.githubusercontent.com/cb336f58175b3d3574a6e2b4814abf34f2e8d23c726598e00e296a27aada0fdc/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d6d616e2d636f6d70757465722d636f64696e672d6e6165366d65633337386c73673169332e676966" align="right" />
-
 ### 🛠 &nbsp;Tech Gear
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
