@@ -1,3 +1,7 @@
+**Hi!**\
+\
+My name is Jicheng, I am current a Masters computer science student at Northeastern University. Primary go-to language is JavaScript, but also have worked with the Tech Gear listed below!
+
 ### 🛠 &nbsp;Tech Gear
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
